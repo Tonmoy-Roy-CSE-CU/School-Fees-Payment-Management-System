@@ -1,7 +1,7 @@
 # 🎓 School Fees Payment Management System (SFPMS)
 
 ## 📌 Overview
-The **School Fees Payment Management System (SFPMS)** is a web-based application designed to **streamline student enrollment, fee payments, and teacher salary management**. It provides an intuitive interface to manage **student records, courses, transactions, and reports** efficiently.
+**School Fees Payment Management System (SFPMS)** is a web-based application designed to streamline the process of managing student fee payments and teacher salaries in educational institutions. This system allows administrators to **track fees, generate invoices, manage student records, process payments, and handle teacher salaries efficiently**.
 
 ## ✨ Features
 - 💡 **Dashboard** - Quick access to insights and statistics  
